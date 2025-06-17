@@ -1,4 +1,9 @@
-# Titanic_Dataset
-# The Titanic-Dataset.csv contains real-world data pertaining to the passengers aboard the RMS Titanic, a vessel that tragically sank on its maiden voyage in April 1912. This historical event remains a subject of extensive study, particularly concerning the factors that influenced survival rates. The dataset, as observed from its content , is presented in a tabular format, a common structure for analytical datasets. Each row corresponds to a unique passenger, and each column details a specific attribute of that individual.   
+Titanic Survival Prediction Dataset
+This dataset contains real-world data about passengers aboard the RMS Titanic, which tragically sank on its maiden voyage in April 1912. This historical event has been extensively studied, particularly regarding the factors that influenced survival rates.
 
-# The core analytical purpose of this dataset is to construct predictive models that can estimate the probability of a passenger surviving the disaster based on their recorded characteristics. This analytical objective positions the dataset firmly within the realm of supervised machine learning, specifically as a binary classification problem.
+Dataset Overview
+The dataset is presented in a tabular format, with each row representing a unique passenger and each column detailing a specific attribute of that individual.
+
+Analytical Objective
+The primary purpose of this dataset is to build predictive models that can estimate the probability of a passenger surviving the disaster based on their recorded characteristics. This makes it a classic supervised machine learning problem, specifically a binary classification task (survived or did not survive).
+
